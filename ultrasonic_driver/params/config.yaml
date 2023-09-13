@@ -1,0 +1,7 @@
+/ultrasonic/ultrasonic_driver_node:
+  ros__parameters:
+    minimum_range: 2
+    maximum_range: 100
+    field_of_view: 15.0
+    trigger_pin: 25
+    echo_pin: 24
